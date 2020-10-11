@@ -1,2 +1,8 @@
-# Forecasting_COVID-19
-Research project to predict the growth of COVD-19 cases in India using Time-series data from Jan-19 to Sep-20
+# Time Series Forecasting COVID-19
+
+## Dataset
+
+- case_time_series.csv : Time series of confirmed, recovered, deceased in India
+- state_wise.csv : Current state wise situation
+- state_wise_daily.csv : State wise time series of confirmed, recovered and deceased
+
