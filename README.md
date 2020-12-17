@@ -51,9 +51,8 @@
 </p>
 
 <p align="center">
-  <img width="500" height="300" src="Heatmap/OD_plot.png">
+  <img width="500" height="300" src="Heatmap/OR_plot.png">
 </p>
-
 
 <p align="center">
   <img width="500" height="300" src="Heatmap/TN_plot.png">
