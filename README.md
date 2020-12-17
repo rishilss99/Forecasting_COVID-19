@@ -8,4 +8,8 @@
 
 ## Data Analysis
 
-![Data Analysis of COVID-19 cases in Indian states](Heatmap/download(1).png)
+<p align="center">
+  <img width="600" height="400" src="Heatmap/download(1).png">
+</p>
+
+
