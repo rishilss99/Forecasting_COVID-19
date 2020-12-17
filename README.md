@@ -9,7 +9,13 @@
 ## Data Analysis
 
 <p align="center">
-  <img width="600" height="400" src="Heatmap/download.png">
+  <img width="500" height="300" src="Heatmap/States.png">
 </p>
+
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/India_Heatmap.png">
+</p>
+
 
 
