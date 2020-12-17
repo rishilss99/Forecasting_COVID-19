@@ -12,9 +12,51 @@
   <img width="500" height="300" src="Heatmap/States.png">
 </p>
 
+<p align="center">
+  <img width="500" height="300" src="Heatmap/download.png">
+</p>
+
+## Results
 
 <p align="center">
-  <img width="500" height="300" src="Heatmap/India_Heatmap.png">
+  <img width="500" height="300" src="Heatmap/MH_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/KA_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/AP_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/TN_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/UP_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/KL_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/DL_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/WB_plot.png">
+</p>
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/OD_plot.png">
+</p>
+
+
+<p align="center">
+  <img width="500" height="300" src="Heatmap/TN_plot.png">
 </p>
 
 
