@@ -9,7 +9,7 @@
 ## Data Analysis
 
 <p align="center">
-  <img width="600" height="400" src="Heatmap/download(1).png">
+  <img width="600" height="400" src="Heatmap/download.png">
 </p>
 
 
